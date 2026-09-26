@@ -4,7 +4,7 @@ I'm Matej, with a passion for software development and open source. My primary f
 
 I'm an **AWS Community Builder** and a regular conference speaker (Devoxx Morocco, JPrime, SpringOne, and more). I share what I learn about Spring and AWS along the way:
 
-- 💼 LinkedIn: [matej-nedic](https://www.linkedin.com/in/your_handle)
+- 💼 LinkedIn: [matej-nedic]([https://www.linkedin.com/in/your_handle](https://www.linkedin.com/in/matej-nedi%C4%87-731741183/))
 - 🎤 Talks: [sessionize.com/matej-nedic](https://sessionize.com/matej-nedic)
 
 ---
